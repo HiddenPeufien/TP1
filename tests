@@ -1,4 +1,4 @@
-from fred import secondMin #importing the function to be tested
+from secondMin import secondMin #importing the function to be tested
 
 
 def test_descending(): # Basic test
