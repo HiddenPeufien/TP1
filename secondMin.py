@@ -8,7 +8,7 @@ def secondMin(numbers):
         if x <= m1:
             m1, m2 = x, m1
         elif x < m2:
-            m2 = x +1
+            m2 = x
             
 
     # return        
